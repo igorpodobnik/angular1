@@ -1,0 +1,22 @@
+{
+  "name": "angular_projekt",
+  "homepage": "https://github.com/igorpodobnik/angular1",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Igor"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
+}
